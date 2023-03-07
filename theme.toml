@@ -1,0 +1,12 @@
+name = "Basko"
+license = "MIT"
+licenselink = "https://github.com/matiargs/basko/blob/master/LICENSE"
+description = ""
+homepage = "http://matiargs.com"
+tags = ["blog", "digital-garden", "obsidian"]
+features = []
+min_version = "0.41.0"
+
+[author]
+  name = "Matias Micheltorena"
+  homepage = "https://matiargs.com"
