@@ -1,0 +1,23 @@
+@import "fonts";
+@import "colors";
+
+$border-default: #596f7e;
+/* $border-default: #2bbc8a; */
+$background: #1d1f21;
+$background-black: #353535;
+$border-radius: 2px;
+$nav-height: 44px;
+$container-width: 54rem;
+$full-container-width: 90rem;
+
+    --font-size-content: 14px;
+    --font-size-nav: 14px;
+    --txt: gainsboro;
+
+    --link-color: #81a3b9;
+    /* --link-color: orangered; */
+    /* --link-color: #2bbc8a; */
+    --f-mono: "JetBrains Mono";
+    --f-sans: "IBM Plex Sans";
+
+    --aside-width: 350px

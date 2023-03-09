@@ -1,0 +1,12 @@
+$font-family-body: "JetBrains Mono", monospace;
+$font-family-mono: "JetBrains Mono", monospace;
+$font-family-tt: "Inconsolata", monospace;
+$font-size: 14px;
+$line-height: 1.725;
+
+@font-face {
+    font-style: normal;
+    font-family: "JetBrains Mono";
+    font-display: swap;
+    src: local("JetBrains Mono"), local("JetBrains-Mono"), url("../lib/JetBrainsMono/web/woff2/JetBrainsMono-Regular.woff2") format("woff2"), url("../lib/JetBrainsMono/web/woff/JetBrainsMono-Regular.woff") format("woff"), url("../lib/JetBrainsMono/web/eot/JetBrainsMono-Regular.eot") format("embedded-opentype"), url("../lib/JetBrainsMono/ttf/JetBrainsMono-Regular.ttf") format("truetype");
+  };
